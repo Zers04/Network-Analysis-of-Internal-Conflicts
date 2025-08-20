@@ -14,8 +14,6 @@ Este proyecto analiza una red de conflictos con **1078 nodos** y **898 aristas**
 **Integrantes:**
 - Valentina Londoño Dueñas (202160173)
 - Juan David Cataño Castillo (202160227)
-- Kevin Estiven Gil Salcedo (202159863)
-- Nicolás Prado León (202160073)
 
 **Fecha de Presentación:** Abril de 2024
 

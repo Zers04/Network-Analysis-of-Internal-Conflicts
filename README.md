@@ -14,8 +14,6 @@ This project analyzes a conflict network with **1078 nodes** and **898 edges**, 
 **Team Members:**
 - Valentina Londoño Dueñas (202160173)
 - Juan David Cataño Castillo (202160227)
-- Kevin Estiven Gil Salcedo (202159863)
-- Nicolás Prado León (202160073)
 
 **Presentation Date:** April 2024
 

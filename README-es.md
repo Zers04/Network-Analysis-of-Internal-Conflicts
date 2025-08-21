@@ -11,10 +11,6 @@ Análisis de una red compleja de conflictos armados internos utilizando el softw
 
 Este proyecto analiza una red de conflictos con **1078 nodos** y **898 aristas**, implementado como parte del curso de Vida Artificial de la Universidad del Valle. El análisis se centra en conflictos internos, definidos como situaciones de violencia prolongada entre fuerzas gubernamentales y grupos armados dentro de un Estado.
 
-**Integrantes:**
-- Valentina Londoño Dueñas (202160173)
-- Juan David Cataño Castillo (202160227)
-
 **Fecha de Presentación:** Abril de 2024
 
 ## 🎯 Objetivos
@@ -75,14 +71,14 @@ El análisis de red permitió verificar el tipo de estructura compleja que prese
 - Actualizar la información para incluir desarrollos recientes.
 - Explorar la integración de otros atributos a los nodos y aristas (intensidad del conflicto, duración, etc.).
 
-## 📖 Bibliografía
+## Autores ✒️
 
-1.  Iheanacho, E. N. (2019). THE MENACE OF FULANI HERDSMEN IN NIGERIA: A THREAT TO NATIONAL SECURITY...
-2.  Benjaminsen, T. A., & Ba, B. (2021). Fulani-dogon killings in mali: Farmer-herder conflicts as insurgency and counterinsurgency...
-3.  Njoku, T. C. M. (1995). Cristianos y Musulmanes en Nigeria...
-4.  Méndez, M. N. R. (2005). Construcción y deconstrucción nacional en Medio Oriente: el caso de Irak...
-5.  Osorno, D. E. (2011). El cártel de Sinaloa: Una historia del uso político del narco...
-6.  Bastian, M., Heymann, S., & Jacomy, M. (2009). Gephi: an open source software for exploring and manipulating networks...
+* **Juan David Cataño** - [Zers04](https://github.com/Zers04)
+* **Valentina Londoño** - [Valtimore](https://github.com/valtimore)
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 

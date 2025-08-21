@@ -11,10 +11,6 @@ Analysis of a complex network of internal armed conflicts using Gephi software f
 
 This project analyzes a conflict network with **1078 nodes** and **898 edges**, implemented as part of the Artificial Life course at Universidad del Valle. The analysis focuses on internal conflicts, defined as situations of prolonged violence between governmental forces and armed groups within a State.
 
-**Team Members:**
-- Valentina Londoño Dueñas (202160173)
-- Juan David Cataño Castillo (202160227)
-
 **Presentation Date:** April 2024
 
 ## 🎯 Objectives
@@ -75,14 +71,14 @@ The network analysis allowed us to verify the type of complex structure presente
 - Updating the information to include recent developments.
 - Exploring the integration of other attributes into nodes and edges (conflict intensity, duration, etc.).
 
-## 📖 References
+## Authors ✒️
 
-1.  Iheanacho, E. N. (2019). THE MENACE OF FULANI HERDSMEN IN NIGERIA: A THREAT TO NATIONAL SECURITY...
-2.  Benjaminsen, T. A., & Ba, B. (2021). Fulani-dogon killings in mali: Farmer-herder conflicts as insurgency and counterinsurgency...
-3.  Njoku, T. C. M. (1995). Cristianos y Musulmanes en Nigeria... [*Note: Keep original title if not officially translated*]
-4.  Méndez, M. N. R. (2005). Construcción y deconstrucción nacional en Medio Oriente: el caso de Irak... [*Note: Keep original title if not officially translated*]
-5.  Osorno, D. E. (2011). El cártel de Sinaloa: Una historia del uso político del narco... [*Note: Keep original title if not officially translated*]
-6.  Bastian, M., Heymann, S., & Jacomy, M. (2009). Gephi: an open source software for exploring and manipulating networks...
+* **Juan David Cataño** - [Zers04](https://github.com/Zers04)
+* **Valentina Londoño** - [Valtimore](https://github.com/valtimore)
+
+## License 📄
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
